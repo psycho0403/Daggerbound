@@ -12,6 +12,10 @@ Most notable functions I was heavily involved in was the respawning system and t
   <img src="https://img.youtube.com/vi/j9DEZIbw0ys/maxresdefault.jpg" width="500">
 </a>
 
+[![The dialog system in its most basic form.](https://github.com/psycho0403/Daggerbound/blob/main/BasicDialogSystemShowcase.mp4)
+
+[![More examples of the Dialog system being used.](https://github.com/psycho0403/Daggerbound/blob/main/InGameDialogShowcase.mp4)
+
 ---
 
 ## Screenshots  
