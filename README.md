@@ -16,9 +16,9 @@ Most notable functions I was heavily involved in was the respawning system and t
 
 ## Screenshots  
 <p align="left">
-  <img src="https://github.com/psycho0403/Sushi-2-Go/blob/main/JumpAndGravety.jpg" width="600">
+  <img src="https://github.com/psycho0403/Daggerbound/blob/main/DialogInGame.png" width="600">
   
-  Example of Gravity and jumping.
+  What the dialogue looks like in game. 
 </p>
 
 ---
