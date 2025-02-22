@@ -19,6 +19,13 @@ Most notable functions I was heavily involved in was the respawning system and t
   <img src="https://github.com/psycho0403/Daggerbound/blob/main/DialogInGame.png" width="600">
   
   What the dialogue looks like in game. 
+  
+</p>
+
+<p align="left">
+  <img src="https://github.com/psycho0403/Daggerbound/blob/main/DialogDataInspector.png" width="600">
+  
+  Example of what the dialog data looked like for the end user.
 </p>
 
 ---
